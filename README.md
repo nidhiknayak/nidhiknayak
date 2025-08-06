@@ -1,14 +1,14 @@
 <h1 align="center">🦢 ⵌ . 𝓝𝓲𝓭𝓱𝓲 𝓝𝓪𝔂𝓪𝓴  .  ↓</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/08/anime-blogging.gif?fit=500%2C280&ssl=1)" width="400" alt="Working girl" />
-</p>
-
-<p align="center">
   <a href="mailto:nidhinayak1877@gmail.com">📧 Email</a> |
   <a href="https://in.linkedin.com/in/nidhi-nayak-8570842a1" target="_blank">💼 LinkedIn</a> |
   <a href="https://github.com/nidhiknayak" target="_blank">🐙 GitHub</a> |
   <a href="https://nidhiknayak.github.io/nidhi-3d-portfolio/" target="_blank">🌐 Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/08/anime-blogging.gif?fit=500%2C280&ssl=1" width="400" alt="Working girl" />
 </p>
 
 ---
