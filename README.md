@@ -20,17 +20,19 @@
 
 ### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
+<!-- GitHub Stats - Baby Pink Aesthetic -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhiknayak&show_icons=true&theme=radical" alt="Nidhi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhiknayak&theme=pink&hide_border=false&include_all_commits=true&count_private=true" alt="Nidhi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nidhiknayak&theme=radical" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nidhiknayak&theme=pink&hide_border=false" alt="Nidhi's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiknayak&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiknayak&theme=pink&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
+
 
 ---
 
