@@ -8,17 +8,17 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-🎓 I'm a Computer Science undergraduate from MVJ College of Engineering (2021–2025), with a strong foundation in full-stack development, data science, and AI/ML.  
-🌱 I'm currently building AI-integrated platforms and no-code tools.  
-🚀 Passionate about developer tooling, agentic AI, and automation systems.  
-💬 Always open to interesting internships, hackathons, and collaborations!
+༘⋆🎓 I'm a Computer Science undergraduate from MVJ College of Engineering (2021–2025), with a strong foundation in full-stack development, data science, and AI/ML.  
+༘⋆🌱 I'm currently building AI-integrated platforms and no-code tools.  
+༘⋆🚀 Passionate about developer tooling, agentic AI, and automation systems.  
+༘⋆💬 Always open to interesting internships, hackathons, and collaborations!
 
 ---
 
 
-### 📊 GitHub Stats
+### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nidhiknayak&show_icons=true&theme=radical" alt="Nidhi's GitHub Stats" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 🤝 Let's Connect!
+### ✦ * 💭 Let's Connect!
 
 If you're into AI apps, developer tools, or cool side projects — let's talk!  
 Feel free to reach out on [LinkedIn](https://in.linkedin.com/in/nidhi-nayak-8570842a1) or check out my [portfolio](https://nidhiknayak.github.io/nidhi-3d-portfolio/).
