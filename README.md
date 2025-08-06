@@ -11,7 +11,8 @@
   <img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/08/anime-blogging.gif?fit=500%2C280&ssl=1" width="400" alt="Working girl" />
 </p>
 
----
+<p align="center">:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:</p>
+
 
 ### 👩‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
@@ -20,12 +21,13 @@
 ༘⋆🚀 Passionate about developer tooling, agentic AI, and automation systems.  
 ༘⋆💬 Always open to interesting internships, hackathons, and collaborations!
 
----
+<p align="center">:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:</p>
+
 
 
 ### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
-<!-- GitHub Stats - Baby Pink Aesthetic -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nidhiknayak&theme=pink&hide_border=false&include_all_commits=true&count_private=true" alt="Nidhi's GitHub Stats" />
 </p>
@@ -39,7 +41,8 @@
 </p>
 
 
----
+<p align="center">:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:</p>
+
 
 ### ✦ * 💭 Let's Connect!
 
