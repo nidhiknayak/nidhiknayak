@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nidhi Nayak</h1>
+<h1 align="center">🦢 ⵌ . 𝓝𝓲𝓭𝓱𝓲 𝓝𝓪𝔂𝓪𝓴  .  ↓</h1>
 <p align="center">
   <a href="mailto:nidhinayak1877@gmail.com">📧 Email</a> |
   <a href="https://in.linkedin.com/in/nidhi-nayak-8570842a1" target="_blank">💼 LinkedIn</a> |
