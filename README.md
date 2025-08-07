@@ -23,6 +23,65 @@
 
 <p align="center">:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:</p>
 
+## 🛠️ Tech Stack
+
+### 🗣️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 📚 Libraries & Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![SDK](https://img.shields.io/badge/SDK-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🔌 Integration
+![REST APIs](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF9E0F?style=for-the-badge&logo=elasticcloud&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-003B57?style=for-the-badge&logo=files&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![UNIX](https://img.shields.io/badge/UNIX-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-355070?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### 🧑‍💻 Core CS Concepts
+![Data Structures](https://img.shields.io/badge/Data_Structures-6C2BD9?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-3C6997?style=for-the-badge)
+![Exception Handling](https://img.shields.io/badge/Exception_Handling-FF595E?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-1982C4?style=for-the-badge)
+![Database Querying](https://img.shields.io/badge/Database_Querying-6A994E?style=for-the-badge)
+
+### 🤝 Soft Skills
+![Problem-Solving](https://img.shields.io/badge/Problem_Solving-F94144?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-F3722C?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-90BE6D?style=for-the-badge)
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-577590?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-277DA1?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-7209B7?style=for-the-badge)
 
 
 ### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
