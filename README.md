@@ -16,7 +16,7 @@
 
 ### 👩‍💻 ABOUT ME
 
-༘⋆🎓 I'm a Computer Science undergraduate from MVJ College of Engineering (2021–2025), with a strong foundation in full-stack development, data science, and AI/ML.  
+༘⋆🎓 I'm a Computer Science undergraduate from MVJ College of Engineering (2021–2025), currently pursuing my Master’s in Computer Science & Engineering at PES Universit.  
 ༘⋆🌱 I'm currently building AI-integrated platforms and no-code tools.  
 ༘⋆🚀 Passionate about developer tooling, agentic AI, and automation systems.  
 ༘⋆💬 Always open to interesting internships, hackathons, and collaborations!
