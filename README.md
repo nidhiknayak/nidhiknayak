@@ -72,16 +72,27 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhiknayak&theme=pink&hide_border=false&include_all_commits=true&count_private=true" alt="Nidhi's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nidhiknayak&show_icons=true&theme=rose_pine&hide_border=false" 
+    alt="Nidhi's GitHub Stats" 
+  />
+</p>
+
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=nidhiknayak&theme=rose_pine&hide_border=false" 
+    alt="Nidhi's GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nidhiknayak&theme=pink&hide_border=false" alt="Nidhi's GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiknayak&layout=compact&theme=rose_pine&hide_border=false" 
+    alt="Top Languages" 
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiknayak&theme=pink&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
 
 
 <p align="center">:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:</p>
