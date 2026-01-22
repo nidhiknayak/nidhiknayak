@@ -80,11 +80,12 @@
 
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=nidhiknayak&theme=rose_pine&hide_border=false" 
-    alt="Nidhi's GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=nidhiknayak&theme=rose_pine&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
+
 
 <p align="center">
   <img 
