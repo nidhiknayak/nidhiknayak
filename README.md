@@ -9,7 +9,7 @@
 
 ### 👩‍💻 ABOUT ME
 
-I'm currently pursuing my Master’s in Computer Science & Engineeringwith a specialization in Machine Intelligence at PES University.  
+I'm currently pursuing my Master’s in Computer Science & Engineering with a specialization in Machine Intelligence at PES University.  
 
 
 <p align="center">:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:</p>
