@@ -1,13 +1,6 @@
 <h1 align="center">🦢 ⵌ . 𝓝𝓲𝓭𝓱𝓲 𝓝𝓪𝔂𝓪𝓴  .  ↓</h1>
 
 <p align="center">
-  <a href="mailto:nidhinayak1877@gmail.com">📧 Email</a> |
-  <a href="https://in.linkedin.com/in/nidhi-nayak-8570842a1" target="_blank">💼 LinkedIn</a> |
-  <a href="https://github.com/nidhiknayak" target="_blank">🐙 GitHub</a> |
-  <a href="https://nidhiknayak.github.io/nidhi-3d-portfolio/" target="_blank">🌐 Portfolio</a>
-</p>
-
-<p align="center">
   <img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/08/anime-blogging.gif?fit=500%2C280&ssl=1" width="400" alt="Working girl" />
 </p>
 
@@ -16,10 +9,8 @@
 
 ### 👩‍💻 ABOUT ME
 
-༘⋆🎓 I'm a Computer Science undergraduate from MVJ College of Engineering (2021–2025), currently pursuing my Master’s in Computer Science & Engineering at PES University.  
-༘⋆🌱 I'm currently building AI-integrated platforms and no-code tools.  
-༘⋆🚀 Passionate about developer tooling, agentic AI, and automation systems.  
-༘⋆💬 Always open to interesting internships, hackathons, and collaborations!
+I'm currently pursuing my Master’s in Computer Science & Engineeringwith a specialization in Machine Intelligence at PES University.  
+
 
 <p align="center">:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:</p>
 
