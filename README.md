@@ -90,9 +90,3 @@ I'm currently pursuing my Master’s in Computer Science & Engineeringwith a spe
 <p align="center">:･ﾟ✧:･.☽˚｡･ﾟ✧:･.:</p>
 
 
-### ✦ * 💭 Let's Connect!
-
-If you're into AI apps, developer tools, or cool side projects — let's talk!  
-Feel free to reach out on [LinkedIn](https://in.linkedin.com/in/nidhi-nayak-8570842a1) or check out my [portfolio](https://nidhiknayak.github.io/nidhi-3d-portfolio/).
-
----
